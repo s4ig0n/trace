@@ -1,6 +1,5 @@
 # trace demo script (2 to 3 minutes)
 
-
 1. Open the landing page and introduce trace as a local-first evidence workspace. Emphasize: “Integrity is recorded. Truth is never declared.”
 2. Select **Start tracing**, create a case, and explain that no account or upload is involved.
 3. Import a safe sample image. Point out local hashing progress, the SHA-256 record, metadata uncertainty labels, and the unchanged original.
